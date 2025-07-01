@@ -1,0 +1,7 @@
+[project]
+name = "imersao-devops"
+version = "0.1.0"
+description = "Projeto para aprender sobre a cultura do devops e como utilizar esse conhecimento como desenvolvedor"
+readme = "readme.md"
+requires-python = ">=3.13"
+dependencies = []
